@@ -1,1 +1,1 @@
-const CONFIG_BACKEND_URL = 'https://gimp-backend.herokuapp.com'
+const CONFIG_BACKEND_URL = 'https://nats-gimp-tracker.herokuapp.com/'
