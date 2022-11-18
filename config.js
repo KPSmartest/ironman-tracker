@@ -1,1 +1,1 @@
-const CONFIG_BACKEND_URL = 'https://gimp-tracker-backend.fly.dev'
+const CONFIG_BACKEND_URL = 'gimp-tracker-server.fly.dev'
